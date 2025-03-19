@@ -1,4 +1,4 @@
-package Loops;
+
 
 public class PrintPrimeNumber {
 

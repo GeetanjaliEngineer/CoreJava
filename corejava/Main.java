@@ -1,4 +1,4 @@
-	package JavaAmigo; //package
+	
 		
 		import java.time.LocalDate;
 	import java.util.Date;

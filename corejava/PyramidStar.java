@@ -1,4 +1,4 @@
-package Star;
+
 
 public class PyramidStar {
 

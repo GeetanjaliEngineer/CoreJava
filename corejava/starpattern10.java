@@ -1,4 +1,4 @@
-package Star;
+
 
 public class starpattern10 {
 	public static void main(String args[]) {
