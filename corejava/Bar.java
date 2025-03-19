@@ -1,4 +1,4 @@
-package JavaAmigo;
+
 
 public class Bar {
 

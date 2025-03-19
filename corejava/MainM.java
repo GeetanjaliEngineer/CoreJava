@@ -1,4 +1,4 @@
-package JavaAmigo;
+
 import java.util.Scanner;
 public class MainM {
 

@@ -1,20 +1,21 @@
-import java.io.*;
-
-
 public class InstanceVariable {
-     private String name;
-     public void setName(String name) {
+    
+    private String name;
+
+    // Setter method
+    public void setName(String name) {
         this.name = name;
-     }
-        public String getName() {
-            return name;
-        }
-        public static void name(String[] args)
-         {
-            InstanceVariable obj = new InstanceVariable();
-            obj.setName("Geetanjali");
-            System.out.println("Name" + obj.getName());
-                 }
-        }
-    
-    
+    }
+
+    // Getter method
+    public String getName() {
+        return name;
+    }
+
+    // Main method
+    public static void main(String[] args) {
+        InstanceVariable obj = new InstanceVariable();
+        obj.setName("Geetanjali");
+        System.out.println("Name: " + obj.getName());
+    }
+}
